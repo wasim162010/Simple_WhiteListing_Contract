@@ -103,7 +103,7 @@ contract WLDataStorage {
 }
 
  
-contract WhiteListAddress {
+contract WLAddress {
     
  WLDataStorage obj;
  
