@@ -103,7 +103,7 @@ contract WLDataStorage {
 }
 
  
-contract WLAddress {
+contract WLContract {
     
  WLDataStorage obj;
  
